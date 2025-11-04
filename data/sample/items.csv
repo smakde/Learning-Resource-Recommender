@@ -1,0 +1,9 @@
+item_id,title,Comedy,Drama,Action,Romance,Sci-Fi,Thriller
+1,Intro to Linear Algebra,0,1,0,0,0,0
+2,Hands-on NumPy Workshop,0,0,0,0,1,0
+3,Git & GitHub Crash Course,0,0,1,0,0,0
+4,Statistics for ML,0,1,0,0,0,0
+5,Python for Data Analysis,0,0,0,0,1,0
+6,Vector Databases 101,0,0,0,0,1,0
+7,Effective Pandas Patterns,0,0,0,0,1,0
+8,Building Streamlit Apps,0,0,0,0,1,0
