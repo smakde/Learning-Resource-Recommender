@@ -1,4 +1,5 @@
-# Learning-Resource Recommender (No-LightFM, NumPy 2.x Friendly)
+# Learning-Resource Recommender
+##A lightweight recommender that helps you discover your next learning resource. It blends patterns from similar users with content keywords, and explains each suggestion in the UI.
 
 Hybrid implicit-feedback + content model:
 - **ALS (implicit)** for collaborative signals
